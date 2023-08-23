@@ -1,0 +1,17 @@
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\obj\Debug\net6.0\BethanysPieShopHRM1.csproj.AssemblyReference.cache
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\obj\Debug\net6.0\BethanysPieShopHRM1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\obj\Debug\net6.0\BethanysPieShopHRM1.AssemblyInfoInputs.cache
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\obj\Debug\net6.0\BethanysPieShopHRM1.AssemblyInfo.cs
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\obj\Debug\net6.0\BethanysPieShopHRM1.csproj.CoreCompileInputs.cache
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\bin\Debug\net6.0\BethanysPieShopHRM1.exe
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\bin\Debug\net6.0\BethanysPieShopHRM1.deps.json
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\bin\Debug\net6.0\BethanysPieShopHRM1.runtimeconfig.json
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\bin\Debug\net6.0\BethanysPieShopHRM1.dll
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\bin\Debug\net6.0\BethanysPieShopHRM1.pdb
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\obj\Debug\net6.0\BethanysPieShopHRM1.dll
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\obj\Debug\net6.0\refint\BethanysPieShopHRM1.dll
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\obj\Debug\net6.0\BethanysPieShopHRM1.pdb
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\obj\Debug\net6.0\BethanysPieShopHRM1.genruntimeconfig.cache
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\obj\Debug\net6.0\ref\BethanysPieShopHRM1.dll
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Internship Related Files\BethanysPieShopHRM1\BethanysPieShopHRM1\obj\Debug\net6.0\BethanysPieShopHRM1.csproj.CopyComplete
