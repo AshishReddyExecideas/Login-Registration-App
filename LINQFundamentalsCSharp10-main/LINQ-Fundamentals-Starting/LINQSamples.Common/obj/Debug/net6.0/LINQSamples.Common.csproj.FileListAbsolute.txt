@@ -1,0 +1,15 @@
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.Common.deps.json
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.Common.dll
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.Common.pdb
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.DataLayer.dll
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\bin\Debug\net6.0\LINQSamples.DataLayer.pdb
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.csproj.AssemblyReference.cache
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.AssemblyInfoInputs.cache
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.AssemblyInfo.cs
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.csproj.CoreCompileInputs.cache
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.csproj.CopyComplete
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.dll
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\refint\LINQSamples.Common.dll
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\LINQSamples.Common.pdb
+E:\Internship Related Files\LINQFundamentalsCSharp10-main\LINQ-Fundamentals-Starting\LINQSamples.Common\obj\Debug\net6.0\ref\LINQSamples.Common.dll

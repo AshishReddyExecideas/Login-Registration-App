@@ -1,0 +1,5 @@
+E:\Internship Related Files\ACM\ACM.BL\obj\Debug\net7.0\ACM.BL.csproj.AssemblyReference.cache
+E:\Internship Related Files\ACM\ACM.BL\obj\Debug\net7.0\ACM.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Related Files\ACM\ACM.BL\obj\Debug\net7.0\ACM.BL.AssemblyInfoInputs.cache
+E:\Internship Related Files\ACM\ACM.BL\obj\Debug\net7.0\ACM.BL.AssemblyInfo.cs
+E:\Internship Related Files\ACM\ACM.BL\obj\Debug\net7.0\ACM.BL.csproj.CoreCompileInputs.cache

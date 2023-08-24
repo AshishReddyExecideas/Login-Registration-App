@@ -1,0 +1,15 @@
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\bin\Release\net6.0\HelloFromCSharp.exe
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\bin\Release\net6.0\HelloFromCSharp.deps.json
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\bin\Release\net6.0\HelloFromCSharp.runtimeconfig.json
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\bin\Release\net6.0\HelloFromCSharp.dll
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\bin\Release\net6.0\HelloFromCSharp.pdb
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\obj\Release\net6.0\HelloFromCSharp.csproj.AssemblyReference.cache
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\obj\Release\net6.0\HelloFromCSharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\obj\Release\net6.0\HelloFromCSharp.AssemblyInfoInputs.cache
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\obj\Release\net6.0\HelloFromCSharp.AssemblyInfo.cs
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\obj\Release\net6.0\HelloFromCSharp.csproj.CoreCompileInputs.cache
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\obj\Release\net6.0\HelloFromCSharp.dll
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\obj\Release\net6.0\refint\HelloFromCSharp.dll
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\obj\Release\net6.0\HelloFromCSharp.pdb
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\obj\Release\net6.0\HelloFromCSharp.genruntimeconfig.cache
+E:\Internship Related Files\HelloFromCSharp\HelloFromCSharp\obj\Release\net6.0\ref\HelloFromCSharp.dll

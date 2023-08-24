@@ -1,0 +1,2 @@
+E:\Internship Related Files\ACM1\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.AssemblyReference.cache
+E:\Internship Related Files\ACM1\Tests\Acme.CommonTest\obj\Debug\Acme.CommonTest.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+E:\Internship Related Files\BethanysPieShopHRM1\TestProject1BethanysPieShopHRM1.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+E:\Internship Related Files\BethanysPieShopHRM1\TestProject1BethanysPieShopHRM1.Test\obj\Debug\net6.0\TestProject1BethanysPieShopHRM1.Test.csproj.AssemblyReference.cache
+E:\Internship Related Files\BethanysPieShopHRM1\TestProject1BethanysPieShopHRM1.Test\obj\Debug\net6.0\TestProject1BethanysPieShopHRM1.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Related Files\BethanysPieShopHRM1\TestProject1BethanysPieShopHRM1.Test\obj\Debug\net6.0\TestProject1BethanysPieShopHRM1.Test.AssemblyInfoInputs.cache
+E:\Internship Related Files\BethanysPieShopHRM1\TestProject1BethanysPieShopHRM1.Test\obj\Debug\net6.0\TestProject1BethanysPieShopHRM1.Test.AssemblyInfo.cs
+E:\Internship Related Files\BethanysPieShopHRM1\TestProject1BethanysPieShopHRM1.Test\obj\Debug\net6.0\TestProject1BethanysPieShopHRM1.Test.csproj.CoreCompileInputs.cache
