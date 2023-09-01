@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\02-UnderstandingLINQ",
+    "\\11-Joining\\Start",
+    "\\LINQSamples.Common",
+    "\\LINQSamples.Common\\ComparerClasses",
+    "\\LINQSamples.Common\\HelperClasses",
+    "\\LINQSamples.DataLayer",
+    "\\LINQSamples.DataLayer\\CompositeClasses",
+    "\\LINQSamples.DataLayer\\EntityClasses",
+    "\\LINQSamples.DataLayer\\RepositoryClasses"
+  ],
+  "SelectedNode": "\\02-UnderstandingLINQ\\LINQSamples.sln",
+  "PreviewInSolutionExplorer": false
+}

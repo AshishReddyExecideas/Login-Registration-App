@@ -1,0 +1,15 @@
+E:\Internship Related Files\CSharpBasics\CSharpBasics\obj\Debug\net7.0\CSharpBasics.csproj.AssemblyReference.cache
+E:\Internship Related Files\CSharpBasics\CSharpBasics\obj\Debug\net7.0\CSharpBasics.GeneratedMSBuildEditorConfig.editorconfig
+E:\Internship Related Files\CSharpBasics\CSharpBasics\obj\Debug\net7.0\CSharpBasics.AssemblyInfoInputs.cache
+E:\Internship Related Files\CSharpBasics\CSharpBasics\obj\Debug\net7.0\CSharpBasics.AssemblyInfo.cs
+E:\Internship Related Files\CSharpBasics\CSharpBasics\obj\Debug\net7.0\CSharpBasics.csproj.CoreCompileInputs.cache
+E:\Internship Related Files\CSharpBasics\CSharpBasics\bin\Debug\net7.0\CSharpBasics.exe
+E:\Internship Related Files\CSharpBasics\CSharpBasics\bin\Debug\net7.0\CSharpBasics.deps.json
+E:\Internship Related Files\CSharpBasics\CSharpBasics\bin\Debug\net7.0\CSharpBasics.runtimeconfig.json
+E:\Internship Related Files\CSharpBasics\CSharpBasics\bin\Debug\net7.0\CSharpBasics.dll
+E:\Internship Related Files\CSharpBasics\CSharpBasics\bin\Debug\net7.0\CSharpBasics.pdb
+E:\Internship Related Files\CSharpBasics\CSharpBasics\obj\Debug\net7.0\CSharpBasics.dll
+E:\Internship Related Files\CSharpBasics\CSharpBasics\obj\Debug\net7.0\refint\CSharpBasics.dll
+E:\Internship Related Files\CSharpBasics\CSharpBasics\obj\Debug\net7.0\CSharpBasics.pdb
+E:\Internship Related Files\CSharpBasics\CSharpBasics\obj\Debug\net7.0\CSharpBasics.genruntimeconfig.cache
+E:\Internship Related Files\CSharpBasics\CSharpBasics\obj\Debug\net7.0\ref\CSharpBasics.dll

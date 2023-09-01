@@ -24,6 +24,7 @@ namespace LoginRegistrationApp.Controllers
             SqlConnection con = new SqlConnection(_configuration.GetConnectionString("ToysCon").ToString());
             SqlCommand cmd = new SqlCommand("INSERT INTO Registration(Username,Password,Email,IsActive) VALUES('"+registration.UserName+"','"+registration.Password+"','"+registration.Email+"','"+registration.IsActive+"' )");
             con.Open();
+            
             int i=cmd.ExecuteNonQuery();
             con.Close();
             if (i > 0)
